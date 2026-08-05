@@ -8,7 +8,7 @@ Product Link: [MaTouch ESP32-S3 2.13 Quad-Color Eink]
 
 Wiki Link:  [MaTouch ESP32-S3 2.13 Quad-Color Eink](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html)
 
-Example：1.[SD_pic_display]
+Example：1.[SD_pic_display](https://github.com/Makerfabs/ESP32S3_2.13_Quad-Color_Eink#sd_pic_display)
          
 
 ## LCD Specs:

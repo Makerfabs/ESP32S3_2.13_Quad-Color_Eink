@@ -9,6 +9,8 @@ Product Link: [MaTouch ESP32-S3 2.13 Quad-Color Eink]
 Wiki Link:  [MaTouch ESP32-S3 2.13 Quad-Color Eink](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html)
 
 Example：1.[SD_pic_display](https://github.com/Makerfabs/ESP32S3_2.13_Quad-Color_Eink#sd_pic_display)
+
+2.[EPD_Pose_Display]
          
 
 ## LCD Specs:
@@ -45,3 +47,7 @@ Example：1.[SD_pic_display](https://github.com/Makerfabs/ESP32S3_2.13_Quad-Colo
 ### SD_pic_display
 
 For details of this example, please refer to the [Wiki](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html#41-sd_pic_display) document.
+
+### EPD_Pose_Display
+
+For details of this example, please refer to the [Wiki](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html#42-epd_pose_display) document.

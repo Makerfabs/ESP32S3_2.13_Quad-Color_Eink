@@ -269,9 +269,9 @@ static uint8_t rgbToFourColor(uint8_t redChannel, uint8_t greenChannel, uint8_t 
   if (luminance >= 160) return 0; // white
   if (luminance < 90) return 3;   // black
 
-  // Neutral midtones have no equivalent on the panel. Use red as the third
-  // tone so photos retain more detail instead of turning entirely white.
-  return 2;
+  // Treat all neutral midtones as white. This keeps anti-aliased edges and
+  // light gray image areas clean instead of rendering them as red or black.
+  return 0;
 }
 
 // Load an uncompressed 250 x 128 BMP. Both 24-bit BGR and 32-bit BGRA files

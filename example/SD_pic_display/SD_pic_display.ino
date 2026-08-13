@@ -240,9 +240,9 @@ static uint8_t rgbToFourColor(uint8_t redChannel, uint8_t greenChannel, uint8_t 
   if (luminance >= 160) return 0; // white
   if (luminance < 90) return 3;   // black
 
-  // Neutral midtones have no equivalent on the panel. Use red as the third
-  // tone so photos retain more detail instead of turning entirely white.
-  return 2;
+  // Keep neutral pixels monochrome. This prevents anti-aliased QR-code edges
+  // and compression artifacts from being rendered as red.
+  return luminance >= 128 ? 0 : 3;
 }
 
 // Load an uncompressed 250 x 128 BMP. Both 24-bit BGR and 32-bit BGRA files

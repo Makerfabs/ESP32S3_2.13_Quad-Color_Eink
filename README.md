@@ -46,8 +46,12 @@ Example：1.[SD_pic_display](https://github.com/Makerfabs/ESP32S3_2.13_Quad-Colo
 
 ### SD_pic_display
 
+![](md_pic/gif1.gif)
+
 For details of this example, please refer to the [Wiki](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html#41-sd_pic_display) document.
 
 ### EPD_Pose_Display
+
+![](md_pic/gif2.gif)
 
 For details of this example, please refer to the [Wiki](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html#42-epd_pose_display) document.

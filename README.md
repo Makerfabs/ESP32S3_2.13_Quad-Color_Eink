@@ -4,7 +4,7 @@
 
 Our MaTouch ESP32-S3 2.13 Quad-Color E-Ink display is equipped with the KEGM021317E08 model from Qingyue Optoelectronics, which adopts active matrix TFT microcapsule electrophoretic display technology to render images. This technology operates by applying an electric field to charged pigment particles suspended inside transparent microcapsules. Colored particles migrate to the microcapsule surfaces and reflect ambient light to form visible patterns, delivering a paper-like viewing experience identical to physical printed media. The EPD module features an active area resolution of 250(H) × 122(V) pixels, supporting 1-bit four-color display mode: black, white, red and yellow. Onboard peripheral expansion integrates the QMI8658A IMU sensor, which provides high-precision six-axis accelerometer and gyroscope data for motion detection, posture sensing and interactive control development.
 
-Product Link: [MaTouch ESP32-S3 2.13 Quad-Color Eink]
+Product Link: [MaTouch ESP32-S3 2.13 Quad-Color Eink](https://www.makerfabs.com/matouch-esp32-s3-2-13-quad-color-eink-epaper.html)
 
 Wiki Link:  [MaTouch ESP32-S3 2.13 Quad-Color Eink](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%202.13%20Quad_Color%20Eink.html)
 
